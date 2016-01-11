@@ -2,23 +2,27 @@
 
 The rules presented below are mostly for *behind the screen* mechanics. It simply gives structure specific type of play style. On the players end, the game is the same, fighters still announce that they 'swing their sword' and the monk still announces 'I grab the arrow out of the air'. You *should not* announce a move name, you should first describe what your character or monster is doing, and then follow through with the mechanics.
 
-However, these rules put a **greater** emphasis on DM & Player description, or ensuring your game is 'fiction first'. In addition to more fiction, these rules also implement **partial successes** for **attack rolles** and **ability** and **skill checks**. Lastly, they **remove initiative** in favor of a more 'fiction first' fighting style, and require the DM to make 'hard' or 'soft' moves.
+However, these rules put a **greater** emphasis on DM & Player description, or ensuring your game is 'fiction first'. In addition to more fiction, these rules also implement **partial successes** for **attack rolles** and **ability** and **skill checks**. Lastly, they **remove initiative** and **actions** in favor of a more 'fiction first' fighting style, and require the DM to make 'hard' or 'soft' moves.
 
 For more information on hard or soft moves, or how to run combat in this way, checkout [Dungeon World](www.dungeon-world.com).
 
-### General Rules
+## General Rules
 
- * Ammo
-   * Ammo is represented as a 'count'.
-   * This does not represent the exact amount of arrows etc.
-   * Instead this represents that the ammo is available to you
-     * Ammo can be spent by soft / hard moves
- * Distance
-   * *Hand*: It’s useful for attacking something within your reach, no further.
-   * *Close*: It’s useful for attacking something at arm’s reach plus a foot or two.
-   * *Reach*: It’s useful for attacking something that’s several feet away—maybe as far as ten.
-   * *Near*: It’s useful for attacking if you can see the whites of their eyes.
-   * *Far*: It’s useful for attacking something in shouting distance.
+### Ammo
+* Ammo is represented as a 'count'.
+* This does not represent the exact amount of arrows, bolts, etc.
+* Instead this represents that the ammo is available to you
+ * Ammo can be spent by soft / hard moves
+
+### Distance
+
+Different tags to represent how far away something is. These are mechanics that should be attached to weapons and other mechanical items. They should not be used as part of your descriptions. 
+
+* *Hand*: It’s useful for attacking something within your reach, no further.
+* *Close*: It’s useful for attacking something at arm’s reach plus a foot or two.
+* *Reach*: It’s useful for attacking something that’s several feet away—maybe as far as ten.
+* *Near*: It’s useful for attacking if you can see the whites of their eyes.
+* *Far*: It’s useful for attacking something in shouting distance.
 
 
 ## Moves
@@ -53,6 +57,7 @@ Attack roles are rolled exactly the same. Rules for success, partial success and
   * `Attack Roll < AC / 2`
 
 #### Initiative
+* No Monsters turns & instead attack as part of GM soft & hard moves.
 * Remove initiative & replace with Dungeon world style fighting
   * Characters are prompted with soft moves
     * *the minotaur charges, horns down, what do you do?*
@@ -67,7 +72,6 @@ Attack roles are rolled exactly the same. Rules for success, partial success and
       *  *You stumble but jump out of the way in time, being narrowly missed by the minitor. You don't have any time to rest, he's now grabbing near by rubble and hurling it at you. What do you do?*
       * *You lean around the corner to see if there is a better vantage point. Under your weight, the crumbling bit of stone you were hiding behind falls to bits letting arrows through, what do you do?*
       * *Joseph bombards you with mental attacks and nearly overwhelms you, he is trying probing the deep secrets of your mind, what do you do? *
-* No Monsters turns & instead attack as part of GM soft & hard moves.
 
 #### Hack & Slash
 
@@ -82,16 +86,16 @@ A port of the *Hack and Slash* move from dungeon world. Used for when a player i
 
 #### Volly
 
-Used when firing a projectile of any kind, with the exclusion of magic. This can be a bolt, arrow, or spear. Really, it's any ranged attack that's not magic. Follow normal D&D rules for rolling an attack role, then apply the following rules for success, partial success and failure.
+Used when firing a projectile of any kind, with the exclusion of magic. This can be a bolt, arrow, or rock. Really, it's any ranged attack that's not magic. Follow normal D&D rules for rolling an attack role, then apply the following rules for success, partial success and failure.
 
 * **Success**
- * You do your damage, woo!.
+  * You do your damage, woo!.
 * **Partial success - Choose One**
- * You have to move to get the shot placing you in danger of the GM’s choice
+  * You have to move to get the shot placing you in danger of the GM’s choice
   * You have to take what you can get: -1 Damage Dice damage
   * You have to take several shots, reducing your ammo by one.
 * **Failure**
- * You'll receive a hard move from the DM.
+  * You'll receive a hard move from the DM.
 
 
 #### Magic
