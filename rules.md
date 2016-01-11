@@ -2,7 +2,7 @@
 
 The rules presented below are mostly for *behind the screen* mechanics. It simply gives structure specific type of play style. On the players end, the game is the same, fighters still announce that they 'swing their sword' and the monk still announces 'I grab the arrow out of the air'. You *should not* announce a move name, you should first describe what your character or monster is doing, and then follow through with the mechanics.
 
-However, these rules put a **greater** emphasis on DM & Player description, or ensuring your game is 'fiction first'. In addition to more fiction, these rules also implement **partial successes** for **attack rolles** and **ability** and **skill checks**. Lastly, they **remove initiative** and **actions** in favor of a more 'fiction first' fighting style, and require the DM to make 'hard' or 'soft' moves.
+However, these rules put a greater emphasis on DM & Player description, or ensuring your game is 'fiction first'. In addition to more fiction, these rules also implement **partial successes** for **attack rolles** and **ability** and **skill checks**. Lastly, they **remove initiative** and **actions** in favor of a more 'fiction first' fighting style, and require the DM to make 'hard' or 'soft' moves.
 
 For more information on hard or soft moves, or how to run combat in this way, checkout [Dungeon World](www.dungeon-world.com).
 
