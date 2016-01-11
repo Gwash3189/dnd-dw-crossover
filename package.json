@@ -1,0 +1,26 @@
+{
+  "name": "dnd-dw-crossover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gwash3189/dnd-dw-crossover.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gwash3189/dnd-dw-crossover/issues"
+  },
+  "homepage": "https://github.com/Gwash3189/dnd-dw-crossover#readme",
+  "dependencies": {
+    "markdown": "^0.5.0",
+    "marked": "^0.3.5"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}
