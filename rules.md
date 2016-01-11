@@ -16,7 +16,7 @@ For more information on hard or soft moves, or how to run combat in this way, ch
 
 ### Distance
 
-Different tags to represent how far away something is. These are mechanics that should be attached to weapons and other mechanical items. They should not be used as part of your descriptions. 
+Different tags to represent how far away something is. These are mechanics that should be attached to weapons and other mechanical items. They should not be used as part of your descriptions.
 
 * *Hand*: It’s useful for attacking something within your reach, no further.
 * *Close*: It’s useful for attacking something at arm’s reach plus a foot or two.
@@ -124,7 +124,7 @@ Defy Danger represent a skills check by the character. The player should describ
 * **Failure**
   *  The GM will offer you a hard move, you do not do what you set out to do, boo!
 
-###### Setting a DC
+##### Setting a DC
 
 This is a GM facing rule, the players will only ever see this rule in action as they contest a DC. The Following rule gives a loose structure of how the DM should set difficulty of a task. If more fine tuning is needed, feel free to add a couple of points to the DC. Need a task that falls between easy and moderate? Set the DC at 13, etc.
 
